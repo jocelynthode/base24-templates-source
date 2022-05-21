@@ -1,0 +1,15 @@
+# Please order list alphanumerically (Base24 templates at the top)
+kdeplasma: https://github.com/Base24/base24-kdeplasma
+kitty-te: https://github.com/Base24/base24-kitty-te
+slack: https://github.com/Base24/base24-slack
+
+dunst: https://github.com/khamer/base16-dunst
+fzf: https://github.com/fnune/base16-fzf
+gtk-flatcolor: https://github.com/Misterio77/base16-gtk-flatcolor
+gtk2: https://github.com/dawikur/base16-gtk2
+i3: https://github.com/khamer/base16-i3
+rofi: https://gitlab.com/0xdec/base16-rofi
+spicetify: https://github.com/jocelynthode/base16-spicetify
+sway: https://github.com/rkubosz/base16-sway
+vim: https://github.com/chriskempson/base16-vim
+xresources: https://github.com/chriskempson/base16-xresources
